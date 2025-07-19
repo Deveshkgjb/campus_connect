@@ -40,7 +40,7 @@ export default function LandingPage() {
           <Link to="/register" style={{
             background: "#764ba2",
             color: "#fff",
-            padding: "0.75rem 2rem",
+            padding: "0.75rem 2rem", 
             borderRadius: "30px",
             fontWeight: 600,
             textDecoration: "none",
